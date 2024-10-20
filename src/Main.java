@@ -12,7 +12,7 @@ public class Main {
         SimulareExtragere simulare = new SimulareExtragere();
         simulare.simuleazaExtragere();
 
-        System.out.println("punctul c din problema 4.5");
+        System.out.println("punctul c din problema4.5");
 
         SimulareC simC= new SimulareC();
         long extrageri= simC.sim();
